@@ -31,6 +31,6 @@ El despliegue del proyecto contempla:
 
 4. Documentación Incluida
 
-* [Business Plan Completo (PDF)](Business_Plan_Last_Memory_UA.pdf)
+* [Business Plan Completo (PDF)]
   
-* [Certificado del Primer Premio](Certificado_Primer_Premio_Triatlon_Sociologia.pdf)
+* [Certificado del Primer Premio]
