@@ -14,12 +14,13 @@ Como parte fundamental del proyecto, se desarrolló un plan de viabilidad con en
 
 * Proyecciones Financieras: Previsión de 500.000€ en ingresos recurrentes (MRR) para el año 4.
 
-* *Eficiencia de Marketing: Objetivo de CPA (Coste de Adquisición) inferior a 25€.
+* Eficiencia de Marketing: Objetivo de CPA (Coste de Adquisición) inferior a 25€.
 
-* Retención de Clientes:** Meta superior al 75%.
+* Retención de Clientes: Meta superior al 75%.
 
 
 3. Stack Tecnológico Propuesto
+
 El despliegue del proyecto contempla:
 
 * Procesamiento de Datos: Uso de Python para la limpieza y anonimización de recuerdos personales.
