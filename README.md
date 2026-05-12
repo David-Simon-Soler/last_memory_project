@@ -22,12 +22,10 @@ Como parte fundamental del proyecto, se desarrolló un plan de viabilidad con en
 3. Stack Tecnológico Propuesto
 
 El despliegue del proyecto contempla:
-
-* Procesamiento de Datos: Uso de Python para la limpieza y anonimización de recuerdos personales.
   
 * IA/Chatbots: Modelos de lenguaje personalizados capaces de interactuar basados en archivos de audio, fotos y cartas.
   
-* Infraestructura Cloud: Almacenamiento escalable y seguro para activos multimedia.
+* Infraestructura Cloud: Almacenamiento escalable.
 
 
 4. Documentación Incluida
